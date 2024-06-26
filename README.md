@@ -1,4 +1,4 @@
-# this_vid2
+# this_chaosleague
 The objectively best Twitter video downloader bot.
 
 [If you want to self-host this, I suggest doing these things.](https://twitter.com/TheEssem/status/1179800410120474625)
