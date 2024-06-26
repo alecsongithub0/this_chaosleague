@@ -43,7 +43,7 @@ module.exports = (filename, handle) => {
         filter: "drawtext",
         options: {
           fontfile: "'./assets/DejaVuSans.ttf'",
-          text: "@this_vid2",
+          text: "@this_chaosleague",
           fontcolor: "white",
           fontsize: outputFontSize.toString(),
           box: "1",
@@ -73,7 +73,7 @@ module.exports = (filename, handle) => {
         filter: "drawtext",
         options: {
           fontfile: "'./assets/DejaVuSans-Bold.ttf'",
-          text: "Downloaded using @this_vid2",
+          text: "made by this_chaosleague",
           fontcolor: "white@0.3",
           fontsize: outputFontSize.toString(),
           shadowcolor: "black",
@@ -88,7 +88,7 @@ module.exports = (filename, handle) => {
         filter: "drawtext",
         options: {
           fontfile: "'./assets/Topaz.ttf'",
-          text: "This video was downloaded using @this_vid2. Any unauthorized usage or reupload of this video is disallowed by @this_vid2 Enterprises. Visit https//projectlounge.pw/thisvid2 for more information.",
+          text: "This video was made using this_chaosleague. Any unauthorized usage or reupload of this video is disallowed by the chaos league. Visit https//chaos-league.com for more information.",
           fontcolor: "white",
           fontsize: outputFontSize.toString(),
           y: "h-line_h-10",
